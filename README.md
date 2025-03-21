@@ -1,6 +1,6 @@
 # 🚀 Node.js + TypeScript + MongoDB + tRPC + Tailwind + React + Vite
 
-![App Banner](client/src/assets/image.png)
+![App Banner](frontend/src/assets/image.png)
 
 Una aplicación full-stack moderna que permite gestionar notas con funcionalidades CRUD utilizando tecnologías de última generación como:
 
